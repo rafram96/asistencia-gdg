@@ -1,6 +1,6 @@
 {
   "evento": "IO Extended Lima 2026",
-  "total": 523,
+  "total": 525,
   "asistentes": [
     {
       "dni": "44514217",
@@ -3138,6 +3138,18 @@
       "dni": "73386260",
       "apellido": null,
       "nombre": "Josué Arriaga",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46879722",
+      "apellido": "Perez",
+      "nombre": "Gerson",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71329740",
+      "apellido": "Arica",
+      "nombre": "Victor",
       "tipo": "Asistente"
     }
   ]
