@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { asistentesData, type Asistente } from "@/lib/asistentes";
 import ThemeToggle from "@/components/ThemeToggle";
 
@@ -26,16 +26,28 @@ export default function Home() {
   // Asistente pendiente de confirmar en el modal.
   const [confirmar, setConfirmar] = useState<Asistente | null>(null);
 
+  // Marca si el usuario ya interactuó: evita que la carga inicial (que en dev
+  // puede resolver tarde por compilación del route + StrictMode) pise un toggle.
+  const interactuado = useRef(false);
+
   // Carga inicial del estado desde el backend.
   useEffect(() => {
+    let ignorar = false;
     fetch("/api/contabilizados")
       .then((r) => r.json())
-      .then((d: { ids: number[] }) => setContabilizados(new Set(d.ids)))
+      .then((d: { ids: number[] }) => {
+        if (ignorar || interactuado.current) return;
+        setContabilizados(new Set(d.ids));
+      })
       .catch(() => {})
       .finally(() => setCargando(false));
+    return () => {
+      ignorar = true;
+    };
   }, []);
 
   async function toggle(a: Asistente) {
+    interactuado.current = true;
     const nuevo = !contabilizados.has(a.id);
     // Actualización optimista.
     setContabilizados((prev) => {
