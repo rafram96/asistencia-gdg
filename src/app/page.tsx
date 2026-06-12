@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { asistentesData, type Asistente } from "@/lib/asistentes";
 import ThemeToggle from "@/components/ThemeToggle";
 
@@ -26,28 +26,59 @@ export default function Home() {
   // Asistente pendiente de confirmar en el modal.
   const [confirmar, setConfirmar] = useState<Asistente | null>(null);
 
-  // Marca si el usuario ya interactuó: evita que la carga inicial (que en dev
-  // puede resolver tarde por compilación del route + StrictMode) pise un toggle.
-  const interactuado = useRef(false);
+  // IDs con una escritura en vuelo (ref para leerlos de forma síncrona dentro
+  // del merge del polling, sin depender del estado de React).
+  const guardandoRef = useRef<Set<number>>(new Set());
 
-  // Carga inicial del estado desde el backend.
-  useEffect(() => {
-    let ignorar = false;
-    fetch("/api/contabilizados")
-      .then((r) => r.json())
-      .then((d: { ids: number[] }) => {
-        if (ignorar || interactuado.current) return;
-        setContabilizados(new Set(d.ids));
-      })
-      .catch(() => {})
-      .finally(() => setCargando(false));
-    return () => {
-      ignorar = true;
-    };
+  function marcarGuardando(id: number, activo: boolean) {
+    if (activo) guardandoRef.current.add(id);
+    else guardandoRef.current.delete(id);
+    setGuardando(new Set(guardandoRef.current));
+  }
+
+  // Trae el estado del backend y lo fusiona con el local, preservando los
+  // cambios optimistas que aún se están guardando (para que el auto-refresco
+  // no pise lo que estás marcando en este momento).
+  const refrescar = useCallback(async () => {
+    try {
+      const d: { ids: number[] } = await fetch("/api/contabilizados").then((r) => r.json());
+      const servidor = new Set(d.ids);
+      setContabilizados((prev) => {
+        const fusion = new Set(servidor);
+        for (const id of guardandoRef.current) {
+          if (prev.has(id)) fusion.add(id);
+          else fusion.delete(id);
+        }
+        return fusion;
+      });
+    } catch {
+      // Si falla una consulta, se conserva el último estado conocido.
+    }
   }, []);
 
+  // Carga inicial + auto-refresco cada 4s. El intervalo solo corre con la
+  // pestaña visible (no gasta consultas en background); al volver a la pestaña
+  // se refresca de inmediato.
+  useEffect(() => {
+    let activo = true;
+    refrescar().finally(() => setCargando(false));
+    const intervalo = setInterval(() => {
+      if (activo && document.visibilityState === "visible") refrescar();
+    }, 4000);
+    const onVolver = () => {
+      if (activo) refrescar();
+    };
+    document.addEventListener("visibilitychange", onVolver);
+    window.addEventListener("focus", onVolver);
+    return () => {
+      activo = false;
+      clearInterval(intervalo);
+      document.removeEventListener("visibilitychange", onVolver);
+      window.removeEventListener("focus", onVolver);
+    };
+  }, [refrescar]);
+
   async function toggle(a: Asistente) {
-    interactuado.current = true;
     const nuevo = !contabilizados.has(a.id);
     // Actualización optimista.
     setContabilizados((prev) => {
@@ -56,7 +87,7 @@ export default function Home() {
       else next.delete(a.id);
       return next;
     });
-    setGuardando((prev) => new Set(prev).add(a.id));
+    marcarGuardando(a.id, true);
     try {
       const res = await fetch("/api/contabilizados", {
         method: "POST",
@@ -75,11 +106,7 @@ export default function Home() {
         return next;
       });
     } finally {
-      setGuardando((prev) => {
-        const next = new Set(prev);
-        next.delete(a.id);
-        return next;
-      });
+      marcarGuardando(a.id, false);
     }
   }
 
@@ -167,7 +194,16 @@ export default function Home() {
       <div className="mb-6 rounded-xl border border-zinc-200 bg-zinc-50 p-4 dark:border-zinc-800 dark:bg-zinc-900/40">
         <div className="flex items-end justify-between">
           <div>
-            <p className="text-xs uppercase tracking-wide text-zinc-500">Contabilizados</p>
+            <p className="flex items-center gap-1.5 text-xs uppercase tracking-wide text-zinc-500">
+              Contabilizados
+              <span className="inline-flex items-center gap-1 text-[10px] font-medium normal-case text-emerald-600 dark:text-emerald-400">
+                <span className="relative flex h-1.5 w-1.5">
+                  <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-emerald-500 opacity-75" />
+                  <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-emerald-500" />
+                </span>
+                en vivo
+              </span>
+            </p>
             <p className="text-3xl font-bold tabular-nums text-emerald-600 dark:text-emerald-400">
               {nContabilizados}
               <span className="text-lg font-medium text-zinc-400"> / {total}</span>
