@@ -1,0 +1,3144 @@
+{
+  "evento": "IO Extended Lima 2026",
+  "total": 523,
+  "asistentes": [
+    {
+      "dni": "44514217",
+      "apellido": "Leon",
+      "nombre": "Samuel",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "46058702",
+      "apellido": "Morales Yovera",
+      "nombre": "Wendy",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "45835702",
+      "apellido": "Gave MiroQuesada",
+      "nombre": "Melissa",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "44722721",
+      "apellido": "Yarleque Yovera",
+      "nombre": "Milton",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "72724338",
+      "apellido": "Aguirre Gonzales",
+      "nombre": "Rodrigo",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "70591735",
+      "apellido": "Centeno Bazan",
+      "nombre": "Paola",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "60741550",
+      "apellido": "Apcho Meneses",
+      "nombre": "Cesar",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "72000097",
+      "apellido": "Pachas Félix",
+      "nombre": "Rodrigo",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "72555822",
+      "apellido": "Bernal Cuyubamba",
+      "nombre": "Brian",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "74229475",
+      "apellido": "Caqui Vásquez",
+      "nombre": "Cesar",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "70948439",
+      "apellido": "Morales Usca",
+      "nombre": "Cristina",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "73010383",
+      "apellido": "Solano Quinte",
+      "nombre": "David",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "47718070",
+      "apellido": "Paredes Chávez",
+      "nombre": "Diego",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "72716252",
+      "apellido": "Rojas Ramírez",
+      "nombre": "Jose Arturo",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "41712027",
+      "apellido": "Cubillas",
+      "nombre": "Guillermo",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "48647106",
+      "apellido": "Chavez Crisostomo",
+      "nombre": "Andres",
+      "tipo": "Organización"
+    },
+    {
+      "dni": "73506149",
+      "apellido": "Zorrilla Hernández",
+      "nombre": "Lucia Alisson",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "43544648",
+      "apellido": "Jauregui Portilla",
+      "nombre": "Pablo",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "74646901",
+      "apellido": "Cardenas Mosquito",
+      "nombre": "Juan Diego",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "74753839",
+      "apellido": "Padilla Vigo",
+      "nombre": "Juan Diego",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "76430071",
+      "apellido": "Delgado Santiago",
+      "nombre": "Carolay",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "70863475",
+      "apellido": "Vargas Saldaña",
+      "nombre": "Jhossy",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "43582674",
+      "apellido": "Avila Celada",
+      "nombre": "Jorge",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "74090167",
+      "apellido": "QUIROZ GONZALES",
+      "nombre": "Carlos",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "72202320",
+      "apellido": "Tello Arcentales",
+      "nombre": "Diego",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "76208938",
+      "apellido": "ARONES PAZ",
+      "nombre": "Oren",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "72001325",
+      "apellido": "Gomez Cabrera",
+      "nombre": "Alejandra",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "45052161",
+      "apellido": "Hinostroza H.",
+      "nombre": "Yvanhoo",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "41279603",
+      "apellido": "Perez Guerra",
+      "nombre": "Jessica",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "48124738",
+      "apellido": "Jara Ocas",
+      "nombre": "Hamer",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "73454704",
+      "apellido": "Castillo Llantoy",
+      "nombre": "Jose",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "74934769",
+      "apellido": "Celadita Romero",
+      "nombre": "Victor",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "48867510",
+      "apellido": "Pariona Huamani",
+      "nombre": "Marisol",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "73780391",
+      "apellido": "Villanueva Huaman",
+      "nombre": "Meylin",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "77069245",
+      "apellido": "Visalot Girón",
+      "nombre": "Jherry",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "75575368",
+      "apellido": "Esteban Vera",
+      "nombre": "Jhonel",
+      "tipo": "Voluntarios"
+    },
+    {
+      "dni": "N12783084",
+      "apellido": "Lecaros",
+      "nombre": "Nicolas",
+      "tipo": "Ponente"
+    },
+    {
+      "dni": "73268194",
+      "apellido": "Hijar",
+      "nombre": "Renzo",
+      "tipo": "Ponente"
+    },
+    {
+      "dni": "45548918",
+      "apellido": "Suarez",
+      "nombre": "Luis",
+      "tipo": "Ponente"
+    },
+    {
+      "dni": "49054787",
+      "apellido": "Fernando",
+      "nombre": "Campos",
+      "tipo": "Ponente"
+    },
+    {
+      "dni": "77666903",
+      "apellido": "Venturi",
+      "nombre": "Enzo",
+      "tipo": "Ponente"
+    },
+    {
+      "dni": "78020949",
+      "apellido": "Ibañez",
+      "nombre": "Daniel",
+      "tipo": "Ponente"
+    },
+    {
+      "dni": "74489385",
+      "apellido": "Enciso Camacho",
+      "nombre": "Angela",
+      "tipo": "Ponente"
+    },
+    {
+      "dni": "76801562",
+      "apellido": "Sanchez  Rosas",
+      "nombre": "Elmer",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70081794",
+      "apellido": "Jason Medina",
+      "nombre": "Medina Arbi",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "42138206",
+      "apellido": "Hernández Sánchez",
+      "nombre": "Kelly",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60790209",
+      "apellido": "Cervantes Cueva",
+      "nombre": "Jair Asael",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "00568868",
+      "apellido": "Ugarte",
+      "nombre": "Armando",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72413568",
+      "apellido": "Ortiz",
+      "nombre": "Humberto",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "07538794",
+      "apellido": "TORRES CASTILLO",
+      "nombre": "José Carlos",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71632327",
+      "apellido": "Arango Cahuana",
+      "nombre": "Brandon Bruce",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71232389",
+      "apellido": "Guerra Escudero",
+      "nombre": "Genaro",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70002229",
+      "apellido": "Soto Ñahui",
+      "nombre": "Bryam Angel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72767807",
+      "apellido": "Valderrama Soto",
+      "nombre": "Jorge Luis",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71172803",
+      "apellido": "Cisneros Quezada",
+      "nombre": "Jhoel Paul",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71351091",
+      "apellido": "Armas Ramírez",
+      "nombre": "Joel Alexis",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72205785",
+      "apellido": "Primo Estrada",
+      "nombre": "Rafael Wimmer",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70973659",
+      "apellido": "Quispilloclla Casique",
+      "nombre": "Sergio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71418118",
+      "apellido": "Agrega Chavez",
+      "nombre": "Erick Jefferson",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74608372",
+      "apellido": "Casas Quiroz",
+      "nombre": "Luis Miguel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75415628",
+      "apellido": "Manayay",
+      "nombre": "Daniel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70947749",
+      "apellido": "Bazalar Zuloaga",
+      "nombre": "Julio Cesar",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43874388",
+      "apellido": "Cuba Ramos",
+      "nombre": "Nelson",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "08542699",
+      "apellido": "Cabanillas Dulanto",
+      "nombre": "Ulises",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75824380",
+      "apellido": "Concha Villanueva",
+      "nombre": "Oskar Alejandro",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "41846570",
+      "apellido": "Palomino",
+      "nombre": "Carlos",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "40692915",
+      "apellido": "Becerra",
+      "nombre": "Eduardo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71424582",
+      "apellido": "Anampa Luque",
+      "nombre": "Victor Raul",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "40581052",
+      "apellido": "DIAZ TAPIA",
+      "nombre": "DENIS WALTER",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43051172",
+      "apellido": "Cocchi Zamora",
+      "nombre": "Juan",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73786325",
+      "apellido": "Maylle",
+      "nombre": "Fernando",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70290763",
+      "apellido": "Cieza Cabrera",
+      "nombre": "Christian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72164428",
+      "apellido": "Luque Cano",
+      "nombre": "Camila Isabel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46195129",
+      "apellido": "Perez Torres",
+      "nombre": "Lizie Consuelo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "42338771",
+      "apellido": "ORTIZ PALACIOS",
+      "nombre": "RODOLFO",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "08206580",
+      "apellido": "Sánchez Paredes",
+      "nombre": "Gaby María",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "44043024",
+      "apellido": "Aldave",
+      "nombre": "Eduar",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76070528",
+      "apellido": "Palacios Antivo",
+      "nombre": "Sandro",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72547104",
+      "apellido": "Cordova",
+      "nombre": "Binni",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73437931",
+      "apellido": "VARGAS LINARES",
+      "nombre": "PAUL MARTHIN",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72290049",
+      "apellido": "Atamari Aldazabal",
+      "nombre": "Owen Rivaldo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75595169",
+      "apellido": "Rujel",
+      "nombre": "Danna",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72709284",
+      "apellido": "VILLANUEVA GALVAN",
+      "nombre": "MARCOS ABAN",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74708398",
+      "apellido": "Quispe Navarro",
+      "nombre": "Luis Angel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60854122",
+      "apellido": "Manrique López",
+      "nombre": "Angela Maribel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "40720447",
+      "apellido": "Rios",
+      "nombre": "Sánchez",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "45150250",
+      "apellido": "Francia Francia",
+      "nombre": "Anthony",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71361894",
+      "apellido": "Rojas Begazo",
+      "nombre": "Allison Mabel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73705193",
+      "apellido": "LEON MAYTA",
+      "nombre": "JEFERSON DAVID",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76280946",
+      "apellido": "Jaramillo Navarro",
+      "nombre": "Jose Alonso",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75607723",
+      "apellido": "Romero Capitanich",
+      "nombre": "Mario Alexander",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70584150",
+      "apellido": "Acuña aquino",
+      "nombre": "Ernesto xavier",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74326142",
+      "apellido": "Arellano Valverde",
+      "nombre": "Renzon Cristian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72400447",
+      "apellido": "Sabogal Castillo",
+      "nombre": "Juan Jesus",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73349473",
+      "apellido": "Umiña Navia",
+      "nombre": "Luis Angel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75074622",
+      "apellido": "Gonzales Inca",
+      "nombre": "Johann Gustavo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72413664",
+      "apellido": "Romero Torres",
+      "nombre": "Julio César",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76578319",
+      "apellido": "SOLANO MAMANI",
+      "nombre": "FRANUZA DAVID",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76793341",
+      "apellido": "Samaritano Ayala",
+      "nombre": "Lesly Veronica",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71204882",
+      "apellido": "Balabarca",
+      "nombre": "Arnold",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "10002442",
+      "apellido": "GONZALEZ OTOYA BARRERA",
+      "nombre": "RAFAEL EDUARDO",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "10548353",
+      "apellido": "DAVILA",
+      "nombre": "SALAS",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "77528739",
+      "apellido": "Jaque Reátegui",
+      "nombre": "Sebastian Emiliano",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70266313",
+      "apellido": "Cordova torres",
+      "nombre": "Jorgeluis armando",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72508874",
+      "apellido": "Chumbimuni",
+      "nombre": "Alisson",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76972216",
+      "apellido": "Vallejos Fiestas",
+      "nombre": "Alexandra Milagros",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "10191684",
+      "apellido": "Diaz Vasquez",
+      "nombre": "Juan Anderson",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "47296199",
+      "apellido": "Medina Collazos",
+      "nombre": "Fiorella Stephany",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "41385472",
+      "apellido": "Diaz Muñoz",
+      "nombre": "Francisco",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75079861",
+      "apellido": "VALENCIA HUAMANI",
+      "nombre": "ELIAS JOSE",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72185691",
+      "apellido": "Salazar calderon",
+      "nombre": "Mónica Fernanda",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76575763",
+      "apellido": "QUISPE RAMIREZ",
+      "nombre": "BRYAN HUGO",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74777342",
+      "apellido": "Diaz Anchay",
+      "nombre": "Oscar Fernando",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "61279312",
+      "apellido": "Ames Tupac yupanqui",
+      "nombre": "Sofía carito",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72194055",
+      "apellido": "Llatas Pure",
+      "nombre": "Juan",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72326601",
+      "apellido": "OSORIO ORTIZ",
+      "nombre": "ENZO MARTIN",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70646787",
+      "apellido": "Pizarro Quiliano",
+      "nombre": "Jaed Pizarro",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73521175",
+      "apellido": "Laime",
+      "nombre": "Alex",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70934108",
+      "apellido": "VILLANUEVA HUAMAN",
+      "nombre": "BECKISSY EFRAEL JUNIOR",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60193919",
+      "apellido": "Willard castillo",
+      "nombre": "Guillermo jherixo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76327435",
+      "apellido": "Ortega Vidal",
+      "nombre": "Alexander",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75575718",
+      "apellido": "Cabezas Durand",
+      "nombre": "Angel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72893091",
+      "apellido": "Tarazona Lazaro",
+      "nombre": "Henry Keniding",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72113931",
+      "apellido": "DIEGO ORIHUELA",
+      "nombre": "CRISTINA YULISSA",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74842840",
+      "apellido": "Delgado Olivares",
+      "nombre": "Gustavo Antonio Klever",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74806922",
+      "apellido": "Romucho Galvez",
+      "nombre": "Adriano Sebastian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72319331",
+      "apellido": "Mercado Guerrero",
+      "nombre": "Anthony Eric",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73059468",
+      "apellido": "Sánchez Silva",
+      "nombre": "Jesús Rolando",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "77679845",
+      "apellido": "Pesantes Jimenez",
+      "nombre": "Emmanuel Rafael",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72239149",
+      "apellido": "Díaz Diaz",
+      "nombre": "Johana Magriory",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72938600",
+      "apellido": "Tiona",
+      "nombre": "Fernado",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73196645",
+      "apellido": "Bautista de la Cruz",
+      "nombre": "Claudia Daniela",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "78292166",
+      "apellido": "Alvarez Chancafe",
+      "nombre": "Fabian Matias",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70702828",
+      "apellido": "HINOSTROZA GAMARRA",
+      "nombre": "STEPHANO GUSTAVO",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76641855",
+      "apellido": "PAREDES SANTOS",
+      "nombre": "ALEXANDER MICHEL",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76771744",
+      "apellido": "Pardave Jara",
+      "nombre": "Asthri Joanne",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60784865",
+      "apellido": "BUTRON CAMARENA",
+      "nombre": "ALDAIR GABRIEL",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73878545",
+      "apellido": "CRUZ CHAVEZ",
+      "nombre": "MARIANO ABEL",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74489388",
+      "apellido": "Peralta Silvano",
+      "nombre": "Sebastian Leonardo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74571183",
+      "apellido": "Santa Cruz Quispe",
+      "nombre": "Oscar Manuel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72399841",
+      "apellido": "Cortez Hijar",
+      "nombre": "Jeremi Axcel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74949542",
+      "apellido": "Espinal Bazán",
+      "nombre": "Sebastián Andres",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73248431",
+      "apellido": "Barzola Navarro",
+      "nombre": "Danee Jhajaira",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70376151",
+      "apellido": "Tarqui Soncco",
+      "nombre": "Nicolas Alejandro Inti",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74940945",
+      "apellido": "REZZA VALENCIA",
+      "nombre": "FRANCESCA RENEE",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75439668",
+      "apellido": "Espíritu Unsihuay",
+      "nombre": "Erika",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "42031041",
+      "apellido": "Luna Diaz",
+      "nombre": "Jhosep Dario",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75546053",
+      "apellido": "Roman Robles",
+      "nombre": "Nicolás Alexander",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "001851747",
+      "apellido": "Gonzalez Gomez",
+      "nombre": "Esoj Nomar",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73029011",
+      "apellido": "Lazo Fiestas",
+      "nombre": "Daniel Alfonso",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73005813",
+      "apellido": "SANCHEZ HERRERA",
+      "nombre": "GADIEL SAID",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76339756",
+      "apellido": "Gonzales Prado",
+      "nombre": "Franco Nicolas",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74393375",
+      "apellido": "Marzana Noa",
+      "nombre": "Karlos Fernando",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75166195",
+      "apellido": "Gamboa Girón",
+      "nombre": "Jheferson Abel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71401019",
+      "apellido": "Dominich Azabache",
+      "nombre": "Kevin Antonio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73432592",
+      "apellido": "mendoza rios",
+      "nombre": "james frank",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70263095",
+      "apellido": "CALDERON NIQUIN",
+      "nombre": "MARKS ARTURO",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70590614",
+      "apellido": "De la Cruz",
+      "nombre": "Selhina Victoria",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70443192",
+      "apellido": "hip villavicencio",
+      "nombre": "kuayhon stewart",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70388545",
+      "apellido": "CAMPOS MIRANDA",
+      "nombre": "PEDRO DAVID",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75444224",
+      "apellido": "Casaperalta Pacheco",
+      "nombre": "Luis Alfonso",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74935242",
+      "apellido": "Cabanillas Antay",
+      "nombre": "Erickson Miguel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72907651",
+      "apellido": "Valdivia Chombo",
+      "nombre": "Edson Antonio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "40325576",
+      "apellido": "Mesones Almanza",
+      "nombre": "Jorge antonio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46200966",
+      "apellido": "Coronel",
+      "nombre": "Salvador",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73453337",
+      "apellido": "Supo Rubiños",
+      "nombre": "Armando Josue",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72767408",
+      "apellido": "Carbajal Gutierrez",
+      "nombre": "Abraham Josue",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72915602",
+      "apellido": "Lorenzo Ramos",
+      "nombre": "Daniel David",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72216214",
+      "apellido": "NAZARIO PRECIADO",
+      "nombre": "VICTORIA MARGARITA",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70456765",
+      "apellido": "Bernilla Sanchez",
+      "nombre": "Juan Diego",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72775581",
+      "apellido": "Suarez",
+      "nombre": "Emerson",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74566720",
+      "apellido": "Mitma Sicha",
+      "nombre": "Amner",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70099154",
+      "apellido": "Bendezú Gutiérrez",
+      "nombre": "Julio Albert",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72634552",
+      "apellido": "Gutierrez Flores",
+      "nombre": "Luis Alessandro",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74895131",
+      "apellido": "Gilanque Sandoval",
+      "nombre": "Julio César",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70120642",
+      "apellido": "Rosales Mendoza",
+      "nombre": "Miguel Ángel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "45042926",
+      "apellido": "chuco paucar",
+      "nombre": "jerson juliano",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74822014",
+      "apellido": "MORE YNGA",
+      "nombre": "KEVIN IVAN",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60979219",
+      "apellido": "Manco Castillo",
+      "nombre": "Mikhail Angelo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71526042",
+      "apellido": "Cullanco Gonzales",
+      "nombre": "Diego Alonso",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71086198",
+      "apellido": "Diaz Diaz",
+      "nombre": "Eduardo Leonardo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "77500514",
+      "apellido": "Zegarra Tuanama",
+      "nombre": "Luis Angel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73212513",
+      "apellido": "Cordova Astucuri",
+      "nombre": "Luis Ado0lfo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71388365",
+      "apellido": "mendoza mamani",
+      "nombre": "lenin bismarx",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76350662",
+      "apellido": "Champion Galvez",
+      "nombre": "Bruno Daniel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72180344",
+      "apellido": "IPARRAGUIRRE HUAMANI",
+      "nombre": "JESUS ALEXIS",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46978207",
+      "apellido": "SANDOVAL",
+      "nombre": "DE LOS RÍOS",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72672220",
+      "apellido": "PISCOYA TIRADO",
+      "nombre": "JOSE LUIS",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73583626",
+      "apellido": "Vera Carranza",
+      "nombre": "Steven Jeanpieers",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72167031",
+      "apellido": "hernandez cusi",
+      "nombre": "jorge jair",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60505968",
+      "apellido": "Manrique Chavez",
+      "nombre": "Joanne Francoise",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75197330",
+      "apellido": "Luyo Fernández",
+      "nombre": "Abrahan Alessandro",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "61143283",
+      "apellido": "Caycho Falcón",
+      "nombre": "Martin Francisco",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73079640",
+      "apellido": "HUAMAN VELAZCO",
+      "nombre": "CARLOS ANTONIO",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72495051",
+      "apellido": "Pichihua Belzusarri",
+      "nombre": "Cristopher Yossen",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "61085818",
+      "apellido": "Reyna Saravia",
+      "nombre": "Andrea Juliet",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "62500457",
+      "apellido": "Levano Guerra",
+      "nombre": "Victor Manuel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72845528",
+      "apellido": "Rodriguez Razohuaman",
+      "nombre": "Justin Jesus",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "40726551",
+      "apellido": "BARRERA CAJACHAGUA",
+      "nombre": "MARIA LAURA",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "61422201",
+      "apellido": "Peña Erazo",
+      "nombre": "Jordan Fabian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "77709852",
+      "apellido": "Lozano Delgado",
+      "nombre": "Diego Enrique",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72942837",
+      "apellido": "Zuñiga Ortiz",
+      "nombre": "Oscar",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43458157",
+      "apellido": "espinoza",
+      "nombre": "juan alberto",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75428247",
+      "apellido": "Grados Velásquez",
+      "nombre": "Daniel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71351323",
+      "apellido": "Avalos Rodriguez",
+      "nombre": "Nicolas Jean Carlos",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "21258939",
+      "apellido": "Navarro",
+      "nombre": "Jhony",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74839698",
+      "apellido": "Espinoza Picón",
+      "nombre": "Diego Steven Martin",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75672644",
+      "apellido": "Ambrosio Quispe",
+      "nombre": "José Enrique",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74405768",
+      "apellido": "Pérez Acosta",
+      "nombre": "Roddy",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "42715723",
+      "apellido": "ALVAREZ BORJA",
+      "nombre": "JHON ANTHONY",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "42032897",
+      "apellido": "De La Barra Bustinza",
+      "nombre": "Carlos Jonnathan",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71635259",
+      "apellido": "Chavez Ramos",
+      "nombre": "Erick Robert",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "167954960",
+      "apellido": "Lecaros",
+      "nombre": "Nicolas",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72446211",
+      "apellido": "Palacios Mogollon",
+      "nombre": "Brando Miguel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70640139",
+      "apellido": "Alburqueque Arzapalo",
+      "nombre": "Kiara Paola",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "07126141",
+      "apellido": "FUNES ORMEÑO",
+      "nombre": "NICANOR",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74075374",
+      "apellido": "Najarro Llacza",
+      "nombre": "Said William",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70404505",
+      "apellido": "Vargas Urmeneta",
+      "nombre": "Gabriel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71718188",
+      "apellido": "VASQUEZ FERNANDEZ",
+      "nombre": "JORDAN OXALC",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "40081791",
+      "apellido": "Madrid Bernedo",
+      "nombre": "Karina del Pilar",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46880227",
+      "apellido": "Huamaní Arango",
+      "nombre": "Edgar",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70544313",
+      "apellido": "Oliva pireta",
+      "nombre": "Cesar",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "42724137",
+      "apellido": "Pantoja Riveros",
+      "nombre": "Richard Enrique",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76340734",
+      "apellido": "Quispe Arapa",
+      "nombre": "Elida Janeth",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46009084",
+      "apellido": "Peña del Aguila",
+      "nombre": "Eliezer",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72207927",
+      "apellido": "Jara Falconi",
+      "nombre": "Marcelo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71483546",
+      "apellido": "Cabos Apolaya",
+      "nombre": "Manuel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74848501",
+      "apellido": "Cruz Coro",
+      "nombre": "Cristhian Elian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76917241",
+      "apellido": "VELO POMA",
+      "nombre": "JOSUE",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "45843235",
+      "apellido": "Accho",
+      "nombre": "Vladimir",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46655429",
+      "apellido": "Rodríguez Chaupis",
+      "nombre": "Emmanuel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76379576",
+      "apellido": "Lizardo Mejía",
+      "nombre": "Zamir",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75929593",
+      "apellido": "CHAHUAYLA DAMAS",
+      "nombre": "GREGORY SEBASTIAN",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72184745",
+      "apellido": "Lopez Mollo",
+      "nombre": "Luis Carlos",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "44360601",
+      "apellido": "Villon Espinoza",
+      "nombre": "Edinson",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "40514114",
+      "apellido": "Sanchez Cabel",
+      "nombre": "Karym Lilly",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60813827",
+      "apellido": "De la Cruz Moquillaza",
+      "nombre": "Joshue Jesús",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "21477139",
+      "apellido": "De la cruz Moquillaza",
+      "nombre": "Jose Julio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70342375",
+      "apellido": "Palacios",
+      "nombre": "Vivian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74303174",
+      "apellido": "Chavez",
+      "nombre": "Sebastian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74715939",
+      "apellido": "GALVEZ PACORI",
+      "nombre": "JOSE GUILLERMO",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70680874",
+      "apellido": "Salinas Salas",
+      "nombre": "Joaquin Mauricio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70644781",
+      "apellido": "Huari Velásquez",
+      "nombre": "Yeffry Paolo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71562749",
+      "apellido": "Quenta Solis",
+      "nombre": "Jorge Eduardo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75788396",
+      "apellido": "Berillo",
+      "nombre": "Andre",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "003800278",
+      "apellido": "García Nuñez",
+      "nombre": "Bryan Stanlyn",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "47915633",
+      "apellido": "OSTOS BERMUDEZ",
+      "nombre": "FELIPE PEDRO JOSE",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72674560",
+      "apellido": "Huaman Avila",
+      "nombre": "Roy Andres",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "47489963",
+      "apellido": "MINO EGUSQUIZA",
+      "nombre": "CHRISTIAN JESÚS",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "61104124",
+      "apellido": "ACOSTA",
+      "nombre": "AXEL",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70527764",
+      "apellido": "Osorio Gonzalez",
+      "nombre": "Cristian David",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "77669650",
+      "apellido": "Perez Aguirre",
+      "nombre": "Joselyn Candy",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43847222",
+      "apellido": "Rojas Huaman",
+      "nombre": "José Antonio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43234992",
+      "apellido": "Rosales Barreto",
+      "nombre": "Luis",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75246584",
+      "apellido": "Mendez Moncada",
+      "nombre": "Danna Valeria",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72577634",
+      "apellido": "Vargas Tapia",
+      "nombre": "Alex Mauricio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71359649",
+      "apellido": "Otero Herrera",
+      "nombre": "Erika Julissa",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70704256",
+      "apellido": "Ñahue Ticona",
+      "nombre": "Tatiana Samira",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71739981",
+      "apellido": "Peña Segura",
+      "nombre": "Pedro Zenon",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "48146663",
+      "apellido": "Pareja",
+      "nombre": "Hernan",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71169988",
+      "apellido": "Quispe Sicha",
+      "nombre": "Mathius Edgar",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "48081152",
+      "apellido": "Alvarez Ibarra",
+      "nombre": "Edu",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72484065",
+      "apellido": "Pareja Gutierrez",
+      "nombre": "José Martin",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72735474",
+      "apellido": "Sosa Lupuche",
+      "nombre": "Carlos Manuel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "40872516",
+      "apellido": "Campos",
+      "nombre": "Julio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43320995",
+      "apellido": "Landauro Ajoy",
+      "nombre": "Julio Cesar",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71854508",
+      "apellido": "Guarniz Cruz",
+      "nombre": "Manuel Elmer Esteban",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72810179",
+      "apellido": "Timaná Castro",
+      "nombre": "Aarón Víctor Manuel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46806381",
+      "apellido": "Obregon Figueroa",
+      "nombre": "Frans Hugo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71016601",
+      "apellido": "huiza anccasi",
+      "nombre": "jhayro",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76192227",
+      "apellido": "BARJA ESPINOZA",
+      "nombre": "JHON ANDERSON",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "42268453",
+      "apellido": "Tuesta",
+      "nombre": "Carlos",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72294736",
+      "apellido": "Tello Arcentales",
+      "nombre": "Oswaldo Mauricio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "62592162",
+      "apellido": "Gutiérrez Abad",
+      "nombre": "María Paz",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74996405",
+      "apellido": "Florian",
+      "nombre": "Renato",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70660601",
+      "apellido": "Arista Melendez",
+      "nombre": "Alexander Luis",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73096679",
+      "apellido": "Sales Risco",
+      "nombre": "Zaida Maria Kary",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73091927",
+      "apellido": "RODRIGUEZ",
+      "nombre": "KARINA",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70576473",
+      "apellido": "MAROCHO CAIRO",
+      "nombre": "FABRICIO",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46496381",
+      "apellido": "Chacaltana",
+      "nombre": "Daniel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "41226793",
+      "apellido": "Gallardo",
+      "nombre": "Enrique",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70941490",
+      "apellido": "Randolp",
+      "nombre": "Diego",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43323895",
+      "apellido": "Anicama Díaz",
+      "nombre": "Jahir",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "45902354",
+      "apellido": "Manayay Gayoso",
+      "nombre": "Deyvis David",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76185862",
+      "apellido": "yuyes",
+      "nombre": "ramiro",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "002854373",
+      "apellido": "Linares",
+      "nombre": "Edgardo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72673633",
+      "apellido": "VARGAS CUTIMBO",
+      "nombre": "JHONATAN RAUL",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75550591",
+      "apellido": "CARHUAMACA RIVERA",
+      "nombre": "STEFANY MILUSKA",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43122288",
+      "apellido": "Pajuelo Inga",
+      "nombre": "Jorge Antonio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72701198",
+      "apellido": "Salvatierra Tamayo",
+      "nombre": "Darwin David",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "47123696",
+      "apellido": "Delgadillo Cifuentes",
+      "nombre": "Alvaro Guillermo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43953557",
+      "apellido": "MAMANI DOMÍNGUEZ",
+      "nombre": "CESAR",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70570294",
+      "apellido": "SALGUERO AVALOS",
+      "nombre": "PATRICK ARMANDO",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "44379466",
+      "apellido": "Angulo Vigo",
+      "nombre": "Ronald Javier",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75646273",
+      "apellido": "Sandoval Huamaní",
+      "nombre": "Adrian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71826613",
+      "apellido": "Gonzales Quispe",
+      "nombre": "Nilson Jancarlo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74150495",
+      "apellido": "Ramirez Sanchez",
+      "nombre": "Mateo Esteban",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72923682",
+      "apellido": "Valencia Pariona",
+      "nombre": "Oscar Omar",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "77100942",
+      "apellido": "Yurivilca Rivera",
+      "nombre": "Luis Eduardo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "41147884",
+      "apellido": "Aliaga Paredes",
+      "nombre": "Denisse",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75428004",
+      "apellido": "Guzman Vara",
+      "nombre": "Shay Fernando",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74119298",
+      "apellido": "ladera la torre",
+      "nombre": "fabricio godofredo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76359732",
+      "apellido": "SALAS CASTILLO",
+      "nombre": "ADRIANA",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76483563",
+      "apellido": "Nuñez Pumacallahui",
+      "nombre": "Soleil Kamitto",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73892746",
+      "apellido": "Narvaez Muggi",
+      "nombre": "Guillermo Eduardo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71736481",
+      "apellido": "canchihuaman ango",
+      "nombre": "kenyi",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "45854368",
+      "apellido": "Gonzales Venegas",
+      "nombre": "Jansenio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76170311",
+      "apellido": "Chipana Belleza",
+      "nombre": "Marx Alonso",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72922611",
+      "apellido": "Velo Barba",
+      "nombre": "Ashly Nicole",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60573440",
+      "apellido": "Cutisaca Aguilar",
+      "nombre": "Luis Angel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71535681",
+      "apellido": "Chuque Castilla",
+      "nombre": "José Luis",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72712973",
+      "apellido": "SAENZ ARROYO",
+      "nombre": "ADRIAN ALEJANDRO",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71562076",
+      "apellido": "Caballero Maguiña",
+      "nombre": "Hans Gianfranco",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73050614",
+      "apellido": "Ureta López",
+      "nombre": "Brian Alexander",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60789562",
+      "apellido": "Matias Lomas",
+      "nombre": "Juan Jesus",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75151974",
+      "apellido": "Cucho Bendezu",
+      "nombre": "Luis Alfredo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74840159",
+      "apellido": "tarazona",
+      "nombre": "abel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "07525509",
+      "apellido": "Morales Pinto",
+      "nombre": "Flor de Maria",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74714883",
+      "apellido": "Caballero Chocano",
+      "nombre": "Martín",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71858088",
+      "apellido": "SALAZAR LLAMO",
+      "nombre": "JOSUE ANIBAL",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "61167604",
+      "apellido": "Vasquez Rodríguez",
+      "nombre": "Piero Rafael",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70481071",
+      "apellido": "Jacobi Aguilar",
+      "nombre": "Diana Jennifer",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71721337",
+      "apellido": "CABALLERO MAGUIÑA",
+      "nombre": "KEVIN STEVEN",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72188133",
+      "apellido": "Napa Bernuy",
+      "nombre": "Angel Gerardo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71498905",
+      "apellido": "Apolino Llacta",
+      "nombre": "Mellany Kristy",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71324466",
+      "apellido": "Ala Chuquicondo",
+      "nombre": "Angie",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76847874",
+      "apellido": "Palomino Gonzales",
+      "nombre": "Jean Carlo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43781865",
+      "apellido": "Amanqui",
+      "nombre": "Wilder",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72170565",
+      "apellido": "Joaquin Hernández",
+      "nombre": "Blanca Isabel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72907647",
+      "apellido": "Valdivia Chombo",
+      "nombre": "Nicole",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "41019142",
+      "apellido": "GARCIA SANCHEZ",
+      "nombre": "ALAN",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "81163817",
+      "apellido": "Colfer Mendoza",
+      "nombre": "Carlos Alejandro",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71138908",
+      "apellido": "Herrera Jave",
+      "nombre": "Sergio Marcelo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "25831234",
+      "apellido": "Vice Fiestas",
+      "nombre": "Richard",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "47723815",
+      "apellido": "Quispe Cardenas",
+      "nombre": "Cristopher Felix",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71404068",
+      "apellido": "Durand Guzman",
+      "nombre": "Milton",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72490098",
+      "apellido": "Bussalleu Salcedo",
+      "nombre": "Fabrizio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46539840",
+      "apellido": "Estela Mendoza",
+      "nombre": "Rosakebia Liliana",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "003475797",
+      "apellido": "Martinez",
+      "nombre": "Gabriel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70266807",
+      "apellido": "Guzman Tito",
+      "nombre": "Jhair Daniel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "001654097",
+      "apellido": "Toledo Escalona",
+      "nombre": "Adalberto José",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70879392",
+      "apellido": "Padilla Iparraguirre",
+      "nombre": "Estefani del Pilar",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73419509",
+      "apellido": "Darvis David",
+      "nombre": "Paz Miranda",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "41666749",
+      "apellido": "Delgado Peña",
+      "nombre": "Miguel Angel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74825263",
+      "apellido": "Lazo La Rosa",
+      "nombre": "Leandro",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "40178383",
+      "apellido": "cano martinez",
+      "nombre": "luis alberto",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73804226",
+      "apellido": "Zegarra Ramos",
+      "nombre": "Matthew Stephano",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "48100179",
+      "apellido": "Zavala Taipe",
+      "nombre": "Daniel Abraham",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70677265",
+      "apellido": "Vargas Vasquez",
+      "nombre": "Luis Christian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "45796216",
+      "apellido": "CHECCORI QUISPE",
+      "nombre": "ADIB ALFREDO",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70497898",
+      "apellido": "Meneses Morales",
+      "nombre": "Brian Steve Kennedy",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72963700",
+      "apellido": "Machacuay",
+      "nombre": "Michael",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70878783",
+      "apellido": "Soto Moreno",
+      "nombre": "Yessenia Yadira",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "44406540",
+      "apellido": "Paredes Cordova",
+      "nombre": "Segundo Hadson",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "40763998",
+      "apellido": "Gomez Sanchez",
+      "nombre": "Ruben",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72925093",
+      "apellido": "Valderrama calderon",
+      "nombre": "Diego Armando",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "77443110",
+      "apellido": "Daniel Bancho",
+      "nombre": "Herles Daniel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43312883",
+      "apellido": "ANICAMA",
+      "nombre": "JOEL",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "78886028",
+      "apellido": "Enriquez Thomas",
+      "nombre": "Cristian Marlo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72959935",
+      "apellido": "Zelada",
+      "nombre": "Jheisson",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "45555215",
+      "apellido": "GARCIA MEDINA",
+      "nombre": "JORGE CARLOS",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73770008",
+      "apellido": "Aguilar",
+      "nombre": "Bruno",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "42656061",
+      "apellido": "Rios Infante",
+      "nombre": "Andersson",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43260875",
+      "apellido": "Huerta Huerta",
+      "nombre": "Marco Antonio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "45950330",
+      "apellido": "Salinas Anaya",
+      "nombre": "Dayana Carmen",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71430357",
+      "apellido": "Blancas",
+      "nombre": "Carlos",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74834620",
+      "apellido": "Ibañez Torres",
+      "nombre": "Ivonne Beatriz",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73335768",
+      "apellido": "Moya Flores",
+      "nombre": "Jasemi Aylinn",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43690937",
+      "apellido": "LUCIO CASTRO",
+      "nombre": "GROVER",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72967124",
+      "apellido": "POMA RIVEROS",
+      "nombre": "FRAY MARX",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75433410",
+      "apellido": "Pablo Mori",
+      "nombre": "Miriam Vanesa",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73456423",
+      "apellido": "GONZALEZ CACERES",
+      "nombre": "SERGIO",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74052157",
+      "apellido": "ELSNER DE LA TORRE UGARTE",
+      "nombre": "JULIO ESTEBAN",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72035414",
+      "apellido": "Díaz paredes",
+      "nombre": "Francisco David",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "47140418",
+      "apellido": "GARCIA FLORES",
+      "nombre": "VICTOR ROMAN",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "41298192",
+      "apellido": "LOPEZ RIVERA",
+      "nombre": "LINDER",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74836981",
+      "apellido": "Sanchez Farfan",
+      "nombre": "Sebastian Mauricio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "25846101",
+      "apellido": "Bernal",
+      "nombre": "Rene",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74902673",
+      "apellido": "Alva Huaman",
+      "nombre": "Geiner Steve",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "41898231",
+      "apellido": "Campos",
+      "nombre": "Jhon",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71259089",
+      "apellido": "Escajadillo Aedo",
+      "nombre": "Aidan",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73966561",
+      "apellido": "Garibay",
+      "nombre": "Benjamin",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "25772996",
+      "apellido": "Parraga Rodriguez",
+      "nombre": "Hector Antonio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71755392",
+      "apellido": "Cardenas Arzapalo",
+      "nombre": "Hemsy Lucia",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "06672881",
+      "apellido": "ESTRELLA GUTIERREZ",
+      "nombre": "CESAR",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72172559",
+      "apellido": "Ibañez Garcia",
+      "nombre": "Daniel Eduardo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "47154056",
+      "apellido": "Aparicio",
+      "nombre": "Santa",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "42760433",
+      "apellido": "Vasquez Flores",
+      "nombre": "Johan",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46763704",
+      "apellido": "CURIÑAUPA TAYPE",
+      "nombre": "JEAN PAUL",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74293393",
+      "apellido": "Rodriguez Pacheco",
+      "nombre": "Frandy",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43348098",
+      "apellido": "Alvarez",
+      "nombre": "Anthony",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75989192",
+      "apellido": "Curiñaupa Taipe",
+      "nombre": "Kevin Jhosep",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "25530329",
+      "apellido": "Arevalo Lopez",
+      "nombre": "Carlos",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "47856411",
+      "apellido": "Baca Vega",
+      "nombre": "Gianina Rocío",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46860166",
+      "apellido": "Allpas",
+      "nombre": "Madeleine",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "1851747",
+      "apellido": "Gonzalez Gomez",
+      "nombre": "Esoj Nomar",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "44920941",
+      "apellido": "Supo Baldo",
+      "nombre": "Joel Victor",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "81561115",
+      "apellido": "Marsino",
+      "nombre": "Giorgio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72696054",
+      "apellido": "Romero Chávez",
+      "nombre": "Daniel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73413194",
+      "apellido": "Hilario Quintana",
+      "nombre": "Jeffry Arturo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "48115402",
+      "apellido": "CUADROS GOMEZ",
+      "nombre": "ENMANUEL JESUS",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "44974829",
+      "apellido": "Mamani Flores",
+      "nombre": "Rolando Abraham",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75378535",
+      "apellido": "Paredes Huanca",
+      "nombre": "Ricardo Andres",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "9243095",
+      "apellido": "García Táboas",
+      "nombre": "Daniel Alberto",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73120715",
+      "apellido": "De la Rada Atapoma",
+      "nombre": "Pamela Fabiana",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72274843",
+      "apellido": "Llerena Cruz",
+      "nombre": "Héctor Sebastián",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74234416",
+      "apellido": "Feijoo Gonzales",
+      "nombre": "Sofia M.",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "61362337",
+      "apellido": "Valencia Arias",
+      "nombre": "Bruce Johan",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "61356991",
+      "apellido": "Leon  García",
+      "nombre": "Jairo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "61251054",
+      "apellido": "Surichaqui  sinche",
+      "nombre": "Steven walter",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72217530",
+      "apellido": "Illescas Nole",
+      "nombre": "Thais Margarita",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71004048",
+      "apellido": "Hurtado Santamaría",
+      "nombre": "Aaron Shariff",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60931248",
+      "apellido": "Zevallos Chumpitaz",
+      "nombre": "Jhon Willian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60240294",
+      "apellido": "Guevara Suyo",
+      "nombre": "Jhohan Isai",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46964444",
+      "apellido": "seminario bravo",
+      "nombre": "mario anthonny",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71300047",
+      "apellido": "Flores Munguía",
+      "nombre": "José Abraham",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75044306",
+      "apellido": "Vicente",
+      "nombre": "Kiara",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "47253445",
+      "apellido": "Cruz Huertas",
+      "nombre": "David Anderson",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70700305",
+      "apellido": "Ayala",
+      "nombre": "Angel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "2372950",
+      "apellido": "Riobueno",
+      "nombre": "Jefferson",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76051911",
+      "apellido": "Talizo Balbin",
+      "nombre": "Joan Jefferson",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60974030",
+      "apellido": "Sanchez Terrazos",
+      "nombre": "Leonardo Gabriel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72865690",
+      "apellido": "Valle Cotera",
+      "nombre": "Angel Gabriel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74151679",
+      "apellido": "REYES ESPINOZA",
+      "nombre": "JORGE MIGUEL",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72512808",
+      "apellido": "Peña Reyes",
+      "nombre": "Grace Lucia",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "2901676",
+      "apellido": "faria fernandez",
+      "nombre": "daniel jose",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "44607183",
+      "apellido": "Fernández Cuzco",
+      "nombre": "Jorge Luis",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74825262",
+      "apellido": "Lazo La Rosa",
+      "nombre": "Leandro",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72612398",
+      "apellido": "SACCACO SAUÑE",
+      "nombre": "Jimy",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70474614",
+      "apellido": "Davila Elias",
+      "nombre": "Rocio Isabel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "5949993",
+      "apellido": "Indriago Rizales",
+      "nombre": "Carlos Julio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46538760",
+      "apellido": "Munive Vilcapoma",
+      "nombre": "Eduardi",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72972164",
+      "apellido": "Moreno Vera",
+      "nombre": "Frank Andre",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "47898499",
+      "apellido": "Alvarez sanchez",
+      "nombre": "christian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76286670",
+      "apellido": "Altamirano Ccahuana",
+      "nombre": "Luis Miguel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "45421537",
+      "apellido": "Callalle Torres",
+      "nombre": "Jorge",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "7972040",
+      "apellido": "SALINAS",
+      "nombre": "CARLOS",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71762675",
+      "apellido": "Salazar Vásquez",
+      "nombre": "Ronald Humberto",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73269711",
+      "apellido": "Chunga Cerdan",
+      "nombre": "Maria Camila",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76466321",
+      "apellido": "CHACCHA CHAVEZ",
+      "nombre": "CHRISTIAN JUNIOR",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73665244",
+      "apellido": "Calle",
+      "nombre": "Marco",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72217673",
+      "apellido": "Chavesta Torres",
+      "nombre": "Leonardo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72577548",
+      "apellido": "Cocha",
+      "nombre": "Valeria",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "77674633",
+      "apellido": "Rivasplata Tanta",
+      "nombre": "Luis Martin",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72048668",
+      "apellido": "Alfaro Caso",
+      "nombre": "Gonzalo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75464819",
+      "apellido": "Canlla Falcon",
+      "nombre": "Carlos Fabricio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "77905317",
+      "apellido": "Davalos",
+      "nombre": "Aarón",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72519899",
+      "apellido": "Blas Ordoñez",
+      "nombre": "Gian Pierre Alan",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74080132",
+      "apellido": "Contreras",
+      "nombre": "Andre",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75171766",
+      "apellido": "Jacobe Montes",
+      "nombre": "jonathan",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "45310609",
+      "apellido": "Vásquez",
+      "nombre": "Victoria",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74543955",
+      "apellido": "Espinoza Ascasibar",
+      "nombre": "Deyvid",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74032244",
+      "apellido": "chavarria",
+      "nombre": "Octavio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73931807",
+      "apellido": "Reyna",
+      "nombre": "Claudia",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76427740",
+      "apellido": "BUSTAMANTE PALOMINO",
+      "nombre": "DIEGO ORLANDO",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73008578",
+      "apellido": "Rivarola",
+      "nombre": "Adrian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72031063",
+      "apellido": "Fernanda",
+      "nombre": "Mariella",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76535727",
+      "apellido": "Guevara",
+      "nombre": "Kelly",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71271403",
+      "apellido": "Danitxa Sagastegui",
+      "nombre": "Hania",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73692852",
+      "apellido": "Carbajal",
+      "nombre": "Carlos",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72201549",
+      "apellido": "Flores Rimac",
+      "nombre": "Christopher",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71639786",
+      "apellido": null,
+      "nombre": "Rubi",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76521679",
+      "apellido": "Espinoza",
+      "nombre": "Andhersln",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60982912",
+      "apellido": "Haldo Pachacutec Aguilar",
+      "nombre": "Jhogan",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74020788",
+      "apellido": "Camizan Vidal",
+      "nombre": "Enzo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73813244",
+      "apellido": "Sebastian Castro Quispe",
+      "nombre": "Eduardo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72827238",
+      "apellido": "Fray Aedo García",
+      "nombre": "Brayan",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72583078",
+      "apellido": "Acuna",
+      "nombre": "Gustavo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "07535365",
+      "apellido": "Maldonado Marruffo",
+      "nombre": "Alejandra",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72374099",
+      "apellido": "Mena Carrillo",
+      "nombre": "Juan Manuel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60957541",
+      "apellido": "Cruz",
+      "nombre": "Fabricio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71951494",
+      "apellido": null,
+      "nombre": "Diego",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73254098",
+      "apellido": "Boza Ventocilla",
+      "nombre": "Fabrizio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43573697",
+      "apellido": "Idrogo Aliaga",
+      "nombre": "Victor",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "004733683",
+      "apellido": "Perez",
+      "nombre": "Paola",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60798243",
+      "apellido": "Mendoza Palacios",
+      "nombre": "Gracia",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "77542552",
+      "apellido": null,
+      "nombre": "Hanks",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73766861",
+      "apellido": "Gomez",
+      "nombre": "Enzo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71541931",
+      "apellido": "Aguilar",
+      "nombre": "Geancarlo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74152290",
+      "apellido": "Huayta Cabana",
+      "nombre": "Anthony Alexander",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "43869844",
+      "apellido": "Luyo",
+      "nombre": "César",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "61030458",
+      "apellido": "Anderson Cose Rojas",
+      "nombre": "Joseph",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "46980359",
+      "apellido": "Sanchez",
+      "nombre": "Nico",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72821321",
+      "apellido": null,
+      "nombre": "Pablo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72824983",
+      "apellido": "Butler Seclén",
+      "nombre": "Juan Diego",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "61431406",
+      "apellido": "Milagros Salas Reategui",
+      "nombre": "Keith",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72221133",
+      "apellido": "Nieto",
+      "nombre": "Sebastian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "61251575",
+      "apellido": "Murillo",
+      "nombre": "José",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76038733",
+      "apellido": "Modesto",
+      "nombre": "Joel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70779809",
+      "apellido": null,
+      "nombre": "Andre",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75435975",
+      "apellido": "Torres",
+      "nombre": "Andrés",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71165281",
+      "apellido": "Utrilla",
+      "nombre": "Jack",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "77483653",
+      "apellido": "Cahuana Condori",
+      "nombre": "Kelvin",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76276532",
+      "apellido": "Quispe",
+      "nombre": "Sebastian",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "09338591",
+      "apellido": "Comeca",
+      "nombre": "Rommel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74312698",
+      "apellido": "Arias Sotelo",
+      "nombre": "Sheyla Jahaira",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70691153",
+      "apellido": "Salazar",
+      "nombre": "Joaquin",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70453420",
+      "apellido": "Chambilla",
+      "nombre": "Edgar",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60797018",
+      "apellido": "Guerrero",
+      "nombre": "Nayeli",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60195079",
+      "apellido": "Coorahua Peña",
+      "nombre": "Aaron",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71574308",
+      "apellido": "Balcazar",
+      "nombre": "Kiara",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75887152",
+      "apellido": "Rojas",
+      "nombre": "Alejandro",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "44279636",
+      "apellido": "Rojas",
+      "nombre": "Rennzo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71496791",
+      "apellido": "Bridneys Aguilar Jorge",
+      "nombre": "Leyrin",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73098825",
+      "apellido": "Alvarado Chavez",
+      "nombre": "Margiory",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70699960",
+      "apellido": "Vega",
+      "nombre": "Bruno",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73090164",
+      "apellido": "Cahuana",
+      "nombre": "Luis",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70954426",
+      "apellido": "Llatas",
+      "nombre": "Lucano",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73707041",
+      "apellido": "Madrid Gonzales",
+      "nombre": "Marco",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "71363322",
+      "apellido": "Reyes",
+      "nombre": "Mariel",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70871920",
+      "apellido": null,
+      "nombre": "Angella",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "41809490",
+      "apellido": "Ccahuantico",
+      "nombre": "Yaneth",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72942250",
+      "apellido": "Delgado",
+      "nombre": "Sergio",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "74094866",
+      "apellido": "MV",
+      "nombre": "Marcelo",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "60800953",
+      "apellido": "Huaman",
+      "nombre": "Hector",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75220168",
+      "apellido": "Seminario Sánchez",
+      "nombre": "Aldair",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76082905",
+      "apellido": null,
+      "nombre": "Anthony",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "70430169",
+      "apellido": null,
+      "nombre": "Emanuel Cáceres Díaz",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75276980",
+      "apellido": null,
+      "nombre": "jefersson kevin",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "75870382",
+      "apellido": null,
+      "nombre": "Nahía",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "76796669",
+      "apellido": null,
+      "nombre": "Andrea",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "72206615",
+      "apellido": null,
+      "nombre": "Fabryzzio Meza",
+      "tipo": "Asistente"
+    },
+    {
+      "dni": "73386260",
+      "apellido": null,
+      "nombre": "Josué Arriaga",
+      "tipo": "Asistente"
+    }
+  ]
+}
