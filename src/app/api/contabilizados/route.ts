@@ -1,6 +1,10 @@
 import { NextRequest, NextResponse } from "next/server";
 import { asistentesData } from "@/lib/asistentes";
-import { getContabilizados, setContabilizado } from "@/lib/contabilizados";
+import {
+  getContabilizados,
+  setContabilizado,
+  resetContabilizados,
+} from "@/lib/contabilizados";
 
 // GET /api/contabilizados -> { ids, count, total }
 export async function GET() {
@@ -33,4 +37,10 @@ export async function POST(req: NextRequest) {
 
   const { ids, count } = await setContabilizado(id, contabilizado);
   return NextResponse.json({ ids, count, total: asistentesData.total });
+}
+
+// DELETE /api/contabilizados  -> reinicia el conteo (borra todos los marcados)
+export async function DELETE() {
+  await resetContabilizados();
+  return NextResponse.json({ ids: [], count: 0, total: asistentesData.total });
 }

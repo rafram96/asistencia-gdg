@@ -82,3 +82,12 @@ export async function setContabilizado(
   const { ids } = usaRedis ? await redisSet(id, contabilizado) : await fileSet(id, contabilizado);
   return { ids, count: ids.length };
 }
+
+// Borra todo el conteo (reset del evento).
+export async function resetContabilizados(): Promise<void> {
+  if (usaRedis) {
+    await redis!.del(REDIS_KEY);
+  } else {
+    await writeChain.then(() => fileWrite(new Set()));
+  }
+}

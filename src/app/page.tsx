@@ -26,6 +26,10 @@ export default function Home() {
   // Asistente pendiente de confirmar en el modal.
   const [confirmar, setConfirmar] = useState<Asistente | null>(null);
 
+  // Modal de reinicio del conteo.
+  const [confirmarReset, setConfirmarReset] = useState(false);
+  const [reseteando, setReseteando] = useState(false);
+
   // IDs con una escritura en vuelo (ref para leerlos de forma síncrona dentro
   // del merge del polling, sin depender del estado de React).
   const guardandoRef = useRef<Set<number>>(new Set());
@@ -107,6 +111,21 @@ export default function Home() {
       });
     } finally {
       marcarGuardando(a.id, false);
+    }
+  }
+
+  async function reset() {
+    setReseteando(true);
+    try {
+      const res = await fetch("/api/contabilizados", { method: "DELETE" });
+      if (!res.ok) throw new Error("error");
+      guardandoRef.current.clear();
+      setContabilizados(new Set());
+      setConfirmarReset(false);
+    } catch {
+      // Si falla, se mantiene el estado actual.
+    } finally {
+      setReseteando(false);
     }
   }
 
@@ -256,17 +275,29 @@ export default function Home() {
         <p className="text-sm text-zinc-500">
           {resultados.length} resultado(s){cargando && " · cargando estado…"}
         </p>
-        <a
-          href="/api/export"
-          className="inline-flex items-center gap-1.5 rounded-lg border border-zinc-300 px-3 py-1.5 text-xs font-semibold text-zinc-600 transition hover:border-emerald-500 hover:text-emerald-600 dark:border-zinc-700 dark:text-zinc-300 dark:hover:border-emerald-500 dark:hover:text-emerald-400"
-        >
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
-            <polyline points="7 10 12 15 17 10" />
-            <line x1="12" y1="15" x2="12" y2="3" />
-          </svg>
-          Exportar a Excel
-        </a>
+        <div className="flex items-center gap-2">
+          <button
+            onClick={() => setConfirmarReset(true)}
+            className="inline-flex items-center gap-1.5 rounded-lg border border-zinc-300 px-3 py-1.5 text-xs font-semibold text-zinc-500 transition hover:border-red-500 hover:text-red-600 dark:border-zinc-700 dark:text-zinc-400 dark:hover:border-red-500 dark:hover:text-red-400"
+          >
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M3 12a9 9 0 1 0 3-6.7L3 8" />
+              <path d="M3 3v5h5" />
+            </svg>
+            Reiniciar
+          </button>
+          <a
+            href="/api/export"
+            className="inline-flex items-center gap-1.5 rounded-lg border border-zinc-300 px-3 py-1.5 text-xs font-semibold text-zinc-600 transition hover:border-emerald-500 hover:text-emerald-600 dark:border-zinc-700 dark:text-zinc-300 dark:hover:border-emerald-500 dark:hover:text-emerald-400"
+          >
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+              <polyline points="7 10 12 15 17 10" />
+              <line x1="12" y1="15" x2="12" y2="3" />
+            </svg>
+            Exportar a Excel
+          </a>
+        </div>
       </div>
 
       {/* Tabla — solo en pantallas medianas y grandes */}
@@ -397,6 +428,50 @@ export default function Home() {
             </div>
           );
         })()}
+
+      {/* Modal de confirmación de reinicio del conteo */}
+      {confirmarReset && (
+        <div
+          role="dialog"
+          aria-modal="true"
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4"
+          onClick={() => !reseteando && setConfirmarReset(false)}
+        >
+          <div
+            className="w-full max-w-sm rounded-2xl border border-zinc-200 bg-white p-6 shadow-xl dark:border-zinc-800 dark:bg-zinc-900"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <h2 className="text-lg font-semibold text-red-600 dark:text-red-400">
+              ¿Reiniciar el conteo?
+            </h2>
+            <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-300">
+              Se desmarcarán <span className="font-semibold">{nContabilizados}</span> persona(s)
+              contabilizada(s) y el contador volverá a <span className="font-semibold">0</span>.
+              Esto afecta a <span className="font-semibold">todos los dispositivos</span> y no se
+              puede deshacer.
+            </p>
+            <p className="mt-2 text-xs text-zinc-400">
+              Tip: si quieres un respaldo, exporta a Excel antes de reiniciar.
+            </p>
+            <div className="mt-5 flex justify-end gap-2">
+              <button
+                onClick={() => setConfirmarReset(false)}
+                disabled={reseteando}
+                className="rounded-lg border border-zinc-300 px-4 py-2 text-sm font-medium text-zinc-600 hover:bg-zinc-50 disabled:opacity-50 dark:border-zinc-700 dark:text-zinc-300 dark:hover:bg-zinc-800"
+              >
+                Cancelar
+              </button>
+              <button
+                onClick={reset}
+                disabled={reseteando}
+                className="rounded-lg bg-red-600 px-4 py-2 text-sm font-semibold text-white hover:bg-red-700 disabled:opacity-50"
+              >
+                {reseteando ? "Reiniciando…" : "Sí, reiniciar"}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </main>
   );
 }
