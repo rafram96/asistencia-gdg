@@ -252,9 +252,22 @@ export default function Home() {
         </select>
       </div>
 
-      <p className="mb-3 text-sm text-zinc-500">
-        {resultados.length} resultado(s){cargando && " · cargando estado…"}
-      </p>
+      <div className="mb-3 flex items-center justify-between gap-3">
+        <p className="text-sm text-zinc-500">
+          {resultados.length} resultado(s){cargando && " · cargando estado…"}
+        </p>
+        <a
+          href="/api/export"
+          className="inline-flex items-center gap-1.5 rounded-lg border border-zinc-300 px-3 py-1.5 text-xs font-semibold text-zinc-600 transition hover:border-emerald-500 hover:text-emerald-600 dark:border-zinc-700 dark:text-zinc-300 dark:hover:border-emerald-500 dark:hover:text-emerald-400"
+        >
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+            <polyline points="7 10 12 15 17 10" />
+            <line x1="12" y1="15" x2="12" y2="3" />
+          </svg>
+          Exportar a Excel
+        </a>
+      </div>
 
       {/* Tabla — solo en pantallas medianas y grandes */}
       <div className="hidden overflow-hidden rounded-xl border border-zinc-200 md:block dark:border-zinc-800">
