@@ -60,7 +60,7 @@ export default function Home() {
     }
   }, []);
 
-  // Carga inicial + auto-refresco cada 4s. El intervalo solo corre con la
+  // Carga inicial + auto-refresco cada 2s. El intervalo solo corre con la
   // pestaña visible (no gasta consultas en background); al volver a la pestaña
   // se refresca de inmediato.
   useEffect(() => {
@@ -68,7 +68,7 @@ export default function Home() {
     refrescar().finally(() => setCargando(false));
     const intervalo = setInterval(() => {
       if (activo && document.visibilityState === "visible") refrescar();
-    }, 4000);
+    }, 2000);
     const onVolver = () => {
       if (activo) refrescar();
     };
